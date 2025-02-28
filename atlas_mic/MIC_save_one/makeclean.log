@@ -1,0 +1,2 @@
+rm -rf tmp lib*.so *.o
+rm -rf tmp lib*.so *.o
