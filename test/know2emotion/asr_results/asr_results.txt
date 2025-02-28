@@ -1,0 +1,35 @@
+ 'tu2', 'lin2', 'ce4', 'shi4', 'you2', 'tu2', 'lin2', 'fa1', 'ming2'-图林测试有图磷发明
+ 'zhi4', 'ce4', 'shi4', 'zhe3', 'yu3', 'bei4', 'ci4', 'shi4', 'zhe3'-质测试者与被刺恃者
+ 'jiu4', 'shi4', 'yi1', 'ge4', 'ren2', 'he2', 'yi1', 'tai2'-就是一个人和一台
+ 'zai4', 'ge2', 'kai1', 'de5', 'xing2', 'kuang4', 'xia4'-在革开的行况下
+ 'tong1', 'guo4', 'yi1', 'xie1', 'zhuang1', 'zhi4'-通过一些装置
+ 'ru2', 'xian4', 'pan2'-如现盘
+ 'xiang3', 'bei4', 'ce4', 'shi4', 'zhi2'-响备测试指
+ 'jin1', 'guo4', 'duo1', 'ci4', 'ce4', 'shi2', 'hou4'-金过多次测时候
+ 'ru2', 'guo3', 'you3', 'chao1', 'guo4', 'bai3', 'fei1', 'zhi1', 'san1', 'shi4', 'de5',  'ce4', 'shi4', 'zhe3'-如果有超过百啡之三世的测试者
+ 'zhao4', 'bu4', 'neng2', 'que4', 'ding4', 'chu1', 'bei4', 'ce4', 'shi4', 'zhe3'-照不能确定出备测试者
+ 'na4', 'shi4', 'zhe3', 'shi4', 'ren2', 'hai2', 'shi4'-么事者是人还是
+ 'na4', 'me5', 'zhe4', 'cai2', 'ji1', 'qi4'-那么这才基弃
+ 'ji1', 'qi4', 'jiu4', 'tong1', 'zuo4', 'le5', 'ce4', 'shi4'-机器就通作了测试
+ 'bing4', 'bei4', 'ren4', 'wei4', 'qu4', 'you3', 'ren2', 'lei4', 'zhi4', 'hui4'-并被认为去有人类智慧
+ 'ji1', 'xin4', 'wei4', 'bu4', 'xiao3', 'shu4', 'dian3', 'shi4', 'yi1', 'han2', 'de5'-圾信为不小数点是伊韩的
+ 'de5', 'wei4', 'shi4', 'ke3', 'yi3', 'bu4', 'ding4', 'ye3', 'ke3', 'yi3', 'dian4', 'dong4'-地位是可以不定也可以电动
+ 'chen2', 'zhe3', 'cheng1', 'wei4', 'ding4', 'dian3', 'shu4'-陈者称为定点数
+ 'zhu4', 'hou4', 'zhe3', 'cheng1', 'wei4', 'fu2', 'dian4', 'shu4'-柱后者称为服电数
+ 'ding4', 'dian3', 'zhun3', 'shu4'-定点准数
+ 'xiao3', 'shu4', 'dian3', 'wei4', 'zhi3', 'gu4', 'di4', 'zai4', 'shu4', 'zhi2', 'zui4', 'di4', 'wei4', 'hou4', 'mian4'-小数点为只顾地在数值最地位后面
+ 'ding4', 'dian3', 'xiao3', 'shu4'-定点小数
+ 'xiao3', 'shu4', 'dian3', 'wei4', 'shi4', 'bu4', 'ding4', 'zai4', 'shu4', 'zhi2'-小数点位是不定在数值
+ 'hai2', 'shu4', 'zhi2', 'zui4', 'gao1', 'wei4', 'qian2', 'mian4'-海数值最高位前面
+ 'yuan2', 'ma3', 'fan2', 'ma3', 'hao3', 'bu4', 'ma3'-缘吗烦吗好不吗
+ 'yuan2', 'ma5'-媛妈
+ 'zui4', 'gao1', 'wei4', 'ci2', 'fang4', 'shu4', 'de5', 'fu4', 'hao4'-最高位慈放数的服好
+ 'lin2', 'biao3', 'shi4', 'zheng4'-霖表示证
+ 'yi1', 'biao3', 'shi4', 'fu4'-一表示付
+ 'qi1', 'yu2', 'wei4', 'yi3', 'er4', 'jing4', 'zhi4', 'xing2', 'shi4', 'cun2', 'shu4', 'shu4', 'zhi2'-漆与未以二净质形式存数数值
+ 'zhe4', 'shu4', 'de5', 'fan3', 'na4', 'hai2', 'shi4', 'yuan2', 'ma1', 'ben3', 'shi1'-这竖的反那还是媛妈本诗
+ 'fu4', 'shu4', 'de5', 'fa1', 'na4', 'wei2', 'wei4', 'dui4', 'yuan2', 'ma5'-缚束的发那位为队员吗
+ 'chu2', 'fu2', 'hao4', 'wei4', 'wai4', 'ai4', 'wei4', 'qu4', 'fan4'-处服好位外爱为去饭
+ 'zheng4', 'shu4', 'de5', 'bu4', 'ma2', 'biao3', 'shi4', 'yu4', 'yuan2', 'ma3', 'xiang1',  'tong2'-帧数的不麻表示与远马相同
+ 'fu4', 'shi4', 'de5', 'bu4', 'ma3', 'biao3', 'shi4', 'qi2', 'dui4', 'yi4', 'fan2', 'ma3', 'jia1', 'yi2'-复试的部马表示其对一凡马加一
+ 'zai4', 'zui4', 'di1', 'wei4', 'jia1', 'yi2'-在最低位家一
